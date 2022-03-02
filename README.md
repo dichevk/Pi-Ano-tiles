@@ -1,2 +1,1 @@
-# Pi-Ano-tiles
-A Python Raspberry Pi project - Piano tiles clone on a self-designed hardware device.  
+Here documents that are linked to the implementaion of the project are shown.
